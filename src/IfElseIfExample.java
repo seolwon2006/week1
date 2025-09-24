@@ -1,4 +1,4 @@
-import java.util.Scanner; // ← 이 줄이 꼭 필요합니다!
+import java.util.Scanner;
 
 public class IfElseIfExample {
     public static void main(String[] args) {
