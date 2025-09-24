@@ -18,7 +18,7 @@ public class Question10 {
                 } else {
                     System.out.println("입력한 값이 100보다 작아서 합을 출력하지 않습니다.");
                 }
-                break; // n까지 합을 구한 후 종료
+                break;
             }
         }
     }
