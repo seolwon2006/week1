@@ -17,5 +17,7 @@ public class InputExample {
         System.out.println("Age: " + age);
         System.out.println("Height: " + height + " cm");
         sc.close();
+
+
     }
 }
